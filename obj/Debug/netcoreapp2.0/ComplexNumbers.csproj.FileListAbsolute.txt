@@ -1,0 +1,11 @@
+/Users/arambaloyan/Documents/ACA/ComplexNumbers/ComplexNumbers/obj/Debug/netcoreapp2.0/ComplexNumbers.csprojResolveAssemblyReference.cache
+/Users/arambaloyan/Documents/ACA/ComplexNumbers/ComplexNumbers/obj/Debug/netcoreapp2.0/ComplexNumbers.csproj.CoreCompileInputs.cache
+/Users/arambaloyan/Documents/ACA/ComplexNumbers/ComplexNumbers/obj/Debug/netcoreapp2.0/ComplexNumbers.AssemblyInfoInputs.cache
+/Users/arambaloyan/Documents/ACA/ComplexNumbers/ComplexNumbers/obj/Debug/netcoreapp2.0/ComplexNumbers.AssemblyInfo.cs
+/Users/arambaloyan/Documents/ACA/ComplexNumbers/ComplexNumbers/bin/Debug/netcoreapp2.0/ComplexNumbers.deps.json
+/Users/arambaloyan/Documents/ACA/ComplexNumbers/ComplexNumbers/bin/Debug/netcoreapp2.0/ComplexNumbers.runtimeconfig.json
+/Users/arambaloyan/Documents/ACA/ComplexNumbers/ComplexNumbers/bin/Debug/netcoreapp2.0/ComplexNumbers.runtimeconfig.dev.json
+/Users/arambaloyan/Documents/ACA/ComplexNumbers/ComplexNumbers/bin/Debug/netcoreapp2.0/ComplexNumbers.dll
+/Users/arambaloyan/Documents/ACA/ComplexNumbers/ComplexNumbers/bin/Debug/netcoreapp2.0/ComplexNumbers.pdb
+/Users/arambaloyan/Documents/ACA/ComplexNumbers/ComplexNumbers/obj/Debug/netcoreapp2.0/ComplexNumbers.dll
+/Users/arambaloyan/Documents/ACA/ComplexNumbers/ComplexNumbers/obj/Debug/netcoreapp2.0/ComplexNumbers.pdb
