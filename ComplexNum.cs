@@ -4,6 +4,7 @@ namespace ComplexNumbers
 {
     class ComplexNum
     {
+        //the real part and the imaginary part
 
         public double re = 0;
 
@@ -40,6 +41,8 @@ namespace ComplexNumbers
 
         }
 
+        //this [conjugate] method is needed to spimplify the division method
+
         public static ComplexNum conjugate(ComplexNum num)
         {
 
@@ -67,7 +70,7 @@ namespace ComplexNumbers
 
         public static double argument(ComplexNum num)
         {
-
+            //checks the quarter of the angle and then estimates it using sin or cos
             if (num.re == 0 && num.im == 0) return 0;
             else if (num.re >= 0 && num.im >= 0) return Math.Asin(num.im / modulus(num));
             else if (num.re <= 0 && num.im >= 0) return Math.Acos(num.re / modulus(num));
@@ -78,6 +81,8 @@ namespace ComplexNumbers
 
         public static void printNum(ComplexNum num)
         {
+            //does not print the real or imaginary part if those are zero
+            //if the imaginary parti is negative, it does not print the "+" sign
             if (num.re != 0)
             {
                 
